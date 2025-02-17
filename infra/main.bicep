@@ -66,6 +66,10 @@ var deployments = [
       name: 'gpt-4o'
       version: '2024-05-13'
     }
+    sku: {
+      name: 'GlobalStandard'
+      capacity: 40
+    }
     capacity: 40
   }
   {
